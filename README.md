@@ -1,5 +1,5 @@
 # Amazon-Fine-Food-Reviews
-Practice of various Machine Learning Algorithms and analyzing its results on the same dataset 
+Implememtation of various Machine Learning Algorithms and analyzing its results on the same dataset 
 
 ## Natural Language Processing (NLP)
 Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
